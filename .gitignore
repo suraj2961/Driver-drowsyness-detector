@@ -3,6 +3,10 @@ __pycache__/
 *.pyo
 face_landmarker.task
 ffmpeg-8.0.1-essentials_build/
-
 covert.py
 generate_alarm2.py
+phase1_opencv.py
+phase2_mediapipe.py
+phase3_numpy.py
+testcam.py
+alarm2.wav
